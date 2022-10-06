@@ -11,3 +11,4 @@
 - [Mubarak Mustapha](https://github.com/mako-commits)
 - [Frank David Addae](https://github.com/frankdavid-addae)
 - [Edori Atiri](https://github.com/EdoriAtiri)
+- [Adewale Tosin](https://github.com/tosmel2)
